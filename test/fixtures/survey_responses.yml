@@ -1,0 +1,37 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  interest: MyText
+  values: MyText
+  goals: MyText
+  top_issues: MyText
+  meeting_preferences: MyString
+  involvement: MyText
+  skills: MyText
+  availability: MyString
+  contact_permission: false
+  contact_method: MyString
+  political_background: MyText
+  demographics: MyText
+  community_impact: MyText
+  fundraising: false
+  networking: MyText
+  feedback: MyText
+
+two:
+  interest: MyText
+  values: MyText
+  goals: MyText
+  top_issues: MyText
+  meeting_preferences: MyString
+  involvement: MyText
+  skills: MyText
+  availability: MyString
+  contact_permission: false
+  contact_method: MyString
+  political_background: MyText
+  demographics: MyText
+  community_impact: MyText
+  fundraising: false
+  networking: MyText
+  feedback: MyText
